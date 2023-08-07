@@ -1,0 +1,10 @@
+file.write 출력
+file.write 출력
+file.write 출력
+file.write 출력
+file.write 출력
+file.write 출력
+file.write 출력
+file.write 출력
+file.write 출력
+file.write 출력
